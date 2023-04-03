@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main_box {
+
+    height: 100vh;
+    width: 100%;
+}
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.row {
+    height: 35.714vw;
+    width: 50.952vw;
+    background-color: azure;
+    border-radius: 3vw;
+    box-shadow: 4px 4px 7px rgba(43, 31, 90, 0.555);
+}
