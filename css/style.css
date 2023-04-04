@@ -10,14 +10,12 @@
     width: 100%;
 }
 
-
-
-
 .attribution {
     font-size: 11px;
     text-align: center;
     position: absolute;
-    bottom: 0;
+    bottom: 2vh;
+
 }
 
 .attribution a {
@@ -27,7 +25,122 @@
 .row {
     height: 35.714vw;
     width: 50.952vw;
-    background-color: azure;
     border-radius: 3vw;
     box-shadow: 4px 4px 7px rgba(43, 31, 90, 0.555);
+}
+
+.first_box {
+    border-radius: 3vw;
+    padding: 2.762vw 3.85vw;
+    background-color: #5f3ffc;
+}
+
+.result {
+    font-size: 2vw;
+}
+
+.score_circle {
+    border-radius: 50%;
+    height: 13.429vw;
+    width: 13.429vw;
+    background: linear-gradient(to bottom, #4922cc, #5f3ffc);
+
+}
+
+.great_text {
+    margin-top: 1.75vw;
+    margin-bottom: 1.2vw;
+    font-size: 2vw;
+
+}
+
+.text_small {
+    font-size: 1.143vw;
+    width: 87%;
+}
+
+.text_number {
+    margin-top: 4.286vw;
+    font-size: 4vw;
+
+}
+
+.text_number_second {
+    margin-top: 1.190vw;
+    font-size: 1.238vw;
+}
+
+.summary {
+    width: 20vw;
+    margin-top: 2.952vw;
+    margin-bottom: 2vw;
+    font-size: 1.65vw;
+}
+
+
+.output {
+
+    width: 20vw;
+    height: 3.905vw;
+    margin-bottom: 1.1vw;
+    font-size: 1.195vw;
+}
+
+.text_output {
+    /* color: #d56262; */
+}
+
+
+
+.reaction_text {
+    color: #d56262;
+}
+
+.reaction_bg {
+    background-color: #fff6f5;
+}
+
+
+.memory_text {
+    color: #ffaa00;
+}
+
+.memory_bg {
+    background-color: #fffbf2;
+}
+
+
+.verbal_text {
+    color: #37a68a;
+}
+
+.verbal_bg {
+    background-color: #f2fbfa;
+}
+
+.visual_text {
+    color: #3336c1;
+}
+
+.visual_bg {
+    background-color: #f3f3fd;
+}
+
+
+
+
+
+.icon {
+    margin-right: 0.3vw;
+}
+
+
+
+
+.button {
+    margin-bottom: 3vw;
+    margin-top: auto;
+    width: 20vw;
+    background-color: #303b59;
+
 }
