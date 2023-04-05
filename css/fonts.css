@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Hanken Grotesk';
+    src: url('../fonts/HankenGrotesk-Bold.eot');
+    src: url('../fonts/HankenGrotesk-Bold.eot') format('embedded-opentype'),
+        url('../fonts/HankenGrotesk-Bold.woff2') format('woff2'),
+        url('../fonts/HankenGrotesk-Bold.woff') format('woff'),
+        url('../fonts/HankenGrotesk-Bold.ttf') format('truetype'),
+        url('../fonts/HankenGrotesk-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hanken Grotesk ExtraBold';
+    src: url('../fonts/HankenGrotesk-ExtraBold.eot');
+    src: url('../fonts/HankenGrotesk-ExtraBold.eot') format('embedded-opentype'),
+        url('../fonts/HankenGrotesk-ExtraBold.woff2') format('woff2'),
+        url('../fonts/HankenGrotesk-ExtraBold.woff') format('woff'),
+        url('../fonts/HankenGrotesk-ExtraBold.ttf') format('truetype'),
+        url('../fonts/HankenGrotesk-ExtraBold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hanken Grotesk medium';
+    src: url('../fonts/HankenGrotesk-Medium.eot');
+    src: url('../fonts/HankenGrotesk-Medium.eot') format('embedded-opentype'),
+        url('../fonts/HankenGrotesk-Medium.woff2') format('woff2'),
+        url('../fonts/HankenGrotesk-Medium.woff') format('woff'),
+        url('../fonts/HankenGrotesk-Medium.ttf') format('truetype'),
+        url('../fonts/HankenGrotesk-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
