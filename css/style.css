@@ -35,6 +35,7 @@
     /* padding: 2.762vw 3.85vw; */
     padding: 2.3vw 3.85vw;
     background-color: #5f3ffc;
+    height: 100%;
 }
 
 .result {
@@ -150,4 +151,39 @@
     width: 20vw;
     background-color: #303b59;
     padding: 0.9vw !important;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+    html {
+        font-size: 20px;
+    }
+
+    body {
+        background-color: lightblue;
+    }
+
+    .row {
+        height: 100%;
+        width: 100%;
+        border-radius: 3vw;
+        box-shadow: 4px 4px 7px rgba(43, 31, 90, 0.555);
+    }
+
+    .first_box {
+        border-radius: 3vw;
+
+        padding: 2.3vw 3.85vw;
+        background-color: #5f3ffc;
+
+        /* width: 100%; */
+        height: 45%;
+    }
+
+
+
+
+
 }
