@@ -164,7 +164,7 @@
 
     .row {
         margin-top: 0;
-        height: 1010px;
+        height: 900px;
         width: 100%;
         box-shadow: 0 0 0;
 
@@ -190,6 +190,7 @@
     }
 
     .first_box {
+
         padding-left: 4%;
         padding-right: 4%;
     }
